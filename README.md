@@ -52,6 +52,7 @@ The App will run on your browser on ```localhost:8000``` if running locally.
 
 ## License
 An Incident management system App design for JPM Inc to resolve costomer complaints and other related issues. This App is design with Docker, Django and Python by Olukunle Amoo
+It is Licensed under [MIT Lisence.](https://github.com/Chunleshy/incident-management-system/blob/main/LICENSE)
 
 Copyright (C) 2023 Chunlesy, unless otherwise indicated.
 
