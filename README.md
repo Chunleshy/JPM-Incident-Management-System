@@ -50,6 +50,18 @@ docker compose up
 The App will run on your browser on ```localhost:8000``` if running locally.
 
 
+***************
+We use the following websites to gather information:<br>
+[Lab: Write your first Django app]https://docs.djangoproject.com/en/4.2/intro/tutorial01/)<br> 
+[Git Tutorial](https://www.githubtutorial.com)<br>
+[Python Tutorial](https://www.pythontutorial.com). <br>
+
+
+For help getting started with Django development, view the
+[online documentation](https://docs.djangoproject.com/en/4.2/)), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+
 ## License
 An Incident management system App design for JPM Inc to resolve costomer complaints and other related issues. This App is design with Docker, Django and Python by Olukunle Amoo
 It is Licensed under [MIT Lisence.](https://github.com/Chunleshy/JPM-Incident-Management-System/blob/main/LICENSE))
