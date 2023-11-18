@@ -1,8 +1,7 @@
 # General Purpose Electronic Voting App
 . This App is design with Docker, Django and Python by Olukunle Amoo
-## About This Application
-The JPM Incident Management System (JPM-IMS) App is a robust and user-friendly solution designed to streamline the handling of incidents and service requests in organizations of all sizes. This application offers an integrated platform to effectively capture, monitor, prioritize, and resolve issues or incidents reported by users or detected by system monitoring.
-This App is a versatile, all-in-one solution that empowers organizations to provide faster incident resolution, enhance service quality, and ultimately increase customer satisfaction. It's a vital tool for maintaining the integrity of operations and minimizing the impact of unexpected incidents.
+## Executive Summary
+The E-Voting App is a secure and efficient digital platform designed to revolutionize the voting experience through streamlined processes and enhanced accessibility. With its user-friendly interface, voters can easily navigate the app and cast their votes confidently. Rigorous authentication mechanisms ensure secure access to the app, allowing only eligible individuals to participate in the elections. The comprehensive voter registration feature simplifies the registration process, reducing administrative workload and ensuring accurate voter information. Users can access detailed information about candidates and propositions, enabling informed decision-making. Real-time updates on voter turnout and election progress provide transparency. Moreover, the app ensures secure and anonymous voting, encryptions, and strict security measures to protect the integrity of each vote. The auditable system enhances result verification and auditing, fostering trust and confidence in the outcome. The app is flexible, scalable, and suitable for a wide range of voting scenarios, from national to organizational elections. Its convenience, efficiency, transparency, and accuracy make it an indispensable tool for empowering citizens and strengthening democratic processes
 
 
 ## Installation
@@ -52,10 +51,10 @@ The App will run on your browser on ```localhost:8000``` if running locally.
 
 ***************
 We use the following websites to gather information:<br>
-[Lab: Write your first Django app]https://docs.djangoproject.com/en/4.2/intro/tutorial01/)<br> 
+[Write your first Django app](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)<br> 
 [Git Tutorial](https://www.githubtutorial.com)<br>
 [Python Tutorial](https://www.pythontutorial.com). <br>
-
+[Getbootstrap](https://getbootstrap.com/) <br>
 
 For help getting started with Django development, view the
 [online documentation](https://docs.djangoproject.com/en/4.2/)), which offers tutorials,
