@@ -16,9 +16,9 @@ The Umpire must be able to save voting category<br>
 # Acceptance Criteria for user story 2
 
 The Umpire must be able to login with username and password<br>
-The Umpire must be able to add contestants for each category<br>
-The Umpire must be able to delete contestants for each category <br>
-The Umpire must be able to see new  contestants in the poll page <br>
+The Umpire must be able to add candidate for each category<br>
+The Umpire must be able to delete candidates for each category <br>
+The Umpire must be able to see th e list of all candidates in the poll page <br>
 
 # Acceptance Criteria for user story 3
 The voter must be able to login with username and password<br>
