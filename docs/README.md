@@ -9,10 +9,10 @@ As the **Head of Department**, **I want to assign responsibility to employee** s
 # Acceptance Criteria
 As a **customer**, I want to **make complaint** so I can **express my concern** <br>
 The customer must be able to create a profile account<br>
-The customer must be able to login with username and password<br>
-The customer must be able to fill a complait form<br>
-The customer must be able to post and delete complaint<br>
-The complaint status should be shown to the customer<br>
+The customer must be able to login with username and password <br>
+The customer must be able to fill a complait form <br>
+The customer must be able to post and delete complaint <br>
+The complaint status should be shown to the customer <br>
 
 As a **customer**, I want to **update my profile** so I can **my current information, preferences, and details can be accurately reflected** <br>
 The customer must be able to login with username and password<br>
