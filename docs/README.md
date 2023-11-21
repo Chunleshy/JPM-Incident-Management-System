@@ -21,7 +21,7 @@ The customer must be able to edit profile <br>
 The customer must be able to save new profile <br>
 
 As an **Employee**, I want to **view all complaints assigned to me** so I can **I resolve it in and make our customer happy** <br>
-The employee must be able to to login with username and password<br
+The employee must be able to to login with username and password<br>
 The employee must be able to access customer post assigned to him<br>
 The employee must be able to comment on the post <br>
 The employee must be able to update case status <br>
